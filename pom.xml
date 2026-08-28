@@ -6,10 +6,12 @@
 
     <groupId>wilpam</groupId>
     <artifactId>json</artifactId>
-    <version>0.1.1</version>
+    <version>0.2.0</version>
 
     <properties>
         <maven.compiler.release>25</maven.compiler.release>
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.11.0</junit.version>
     </properties>
