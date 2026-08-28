@@ -6,7 +6,7 @@
 
     <groupId>wilpam</groupId>
     <artifactId>json</artifactId>
-    <version>0.2.0</version>
+    <version>0.3.0</version>
 
     <properties>
         <maven.compiler.release>25</maven.compiler.release>
